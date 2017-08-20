@@ -1,6 +1,6 @@
 # Wallaby.js
 
-**To get wallaby.js working** after you have generated your project with `angular-cli`, you'll need to do the following:
+**To get wallaby.js working** for the `angular-starter` project, you'll need to do the following:
 - Add the [wallaby.js config file](https://github.com/wallabyjs/angular-starter/blob/master/wallaby.js) to the project.
 - Add the [wallaby.js test bootstrap file](https://github.com/wallabyjs/angular-starter/blob/master/config/spec-bundle-wallaby.js) to the project.
 - Run `npm install wallaby-webpack electron --save-dev`.
