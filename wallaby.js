@@ -67,7 +67,7 @@ module.exports = function (wallaby) {
       {pattern: 'src/**/*spec.ts', load: false}
     ],
 
-    testFramework: 'jasmine',
+    testFramework: 'jasmine@2.8.0',
 
     middleware: function (app, express) {
       var path = require('path');
